@@ -462,6 +462,8 @@ export default function CreateTripModal({ isOpen, onClose, onTripCreated }) {
                 ))}
               </select>
             </div>
+
+            
             <div>
               <label className="field-label">Budget</label>
               <div style={{ position: 'relative' }}>
@@ -527,3 +529,5 @@ export default function CreateTripModal({ isOpen, onClose, onTripCreated }) {
     </div>
   );
 }
+
+
