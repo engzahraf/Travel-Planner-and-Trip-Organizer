@@ -232,25 +232,36 @@ For each implemented endpoint, document its path, HTTP method, purpose, authenti
 
 ## Screenshots
 
-Add screenshots of the application's actual user interfaces to demonstrate its functionality.
 
-Store the screenshots in a directory such as `docs/screenshots/` and update the image paths below to match the files you add.
+### Authentication
+![Authentication](docs/screenshots/authentication.png)
 
 ### Dashboard
-
-![Application Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](docs/screenshots/dashboard.png)
 
 ### Trip Management
+![Trip Management](docs/screenshots/trip-management.png)
 
-![Trip Management Interface](docs/screenshots/trip-management.png)
+### Trip Details
+![Trip Details](docs/screenshots/trip-details.png)
 
 ### Journey Logbook
-
-![Journey Logbook Interface](docs/screenshots/journey-logbook.png)
+![Journey Logbook](docs/screenshots/journey-logbook.png)
 
 ### Expense Management
+![Expense Management](docs/screenshots/expense-management.png)
 
-![Expense Management Interface](docs/screenshots/expense-management.png)
+### Photo Gallery
+![Photo Gallery](docs/screenshots/photo-gallery.png)
+
+### Profile
+![Profile](docs/screenshots/profile.png)
+
+### Notifications
+![Notifications](docs/screenshots/notifications.png)
+
+### Admin Dashboard
+![Admin Dashboard](docs/screenshots/admin-dashboard.png)
 
 These are example image references. GitHub will display them only after the corresponding image files have been committed to the repository.
 
